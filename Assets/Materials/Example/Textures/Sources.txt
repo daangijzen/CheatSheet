@@ -1,0 +1,7 @@
+Here's the source:
+
+Normal map stolen from: 
+https://www.jeremyromanowski.com/blog/
+
+Smoothness map stolen from:
+https://www.artstation.com/blogs/miguel/Bnb7/roughness-imperfection-my-own-textures-maps
